@@ -21,7 +21,6 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Product Designer | UX/UI Developer | Digital Presence Analysis{" "}
             <br className="sm:block hidden" />
-            interfaces and web applications
           </p>
         </div>
       </div>
